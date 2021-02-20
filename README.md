@@ -1,5 +1,5 @@
 # PaymentAPI
-A simple credit card payment system WEB API created with ASP.NET Core and EntityFrameWork Core
+A simple credit card payment system WEB API created with ASP.NET Core and EntityFrameWork Core code first migration
 
 Procedure to Run the project
 1.Download code as zip and extract
